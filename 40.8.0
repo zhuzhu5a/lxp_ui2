@@ -1,0 +1,8 @@
+Collecting setuptools
+  Downloading setuptools-68.0.0-py3-none-any.whl (804 kB)
+     ------------------------------------ 804.0/804.0 kB 876.2 kB/s eta 0:00:00
+Collecting wheel
+  Downloading wheel-0.40.0-py3-none-any.whl (64 kB)
+     ---------------------------------------- 64.5/64.5 kB 3.4 MB/s eta 0:00:00
+Installing collected packages: wheel, setuptools
+Successfully installed setuptools-68.0.0 wheel-0.40.0

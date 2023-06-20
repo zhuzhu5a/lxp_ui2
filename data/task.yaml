@@ -1,0 +1,11 @@
+-biddingtask:
+  username: 18805920129
+  password: 123456
+  title: 自动化测试招标任务
+  amount: 1
+  zititle: 自动化计件子任务
+-cpatask:
+  username: 18805920129
+  password: 123456
+  title: 自动化测试比稿任务
+  amount: 2
